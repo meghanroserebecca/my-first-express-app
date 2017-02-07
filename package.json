@@ -1,0 +1,22 @@
+{
+  "name": "my-first-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-app.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghanroserebecca/my-first-express-app.git"
+  },
+  "author": "meghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghanroserebecca/my-first-express-app/issues"
+  },
+  "homepage": "https://github.com/meghanroserebecca/my-first-express-app#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
